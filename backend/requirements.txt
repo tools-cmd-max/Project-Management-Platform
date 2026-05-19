@@ -6,3 +6,4 @@ zep-cloud
 pydantic-settings
 python-dotenv
 httpx
+email-validator
