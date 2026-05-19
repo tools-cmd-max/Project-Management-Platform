@@ -1,1 +1,2 @@
-# Project-Management-Platform
+# Hive-Mind
+ AI-powered connections between team members
